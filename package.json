@@ -1,15 +1,1 @@
-{
-  "name": "qed-luxury-store",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "framer-motion": "^10.16.1"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build"
-  }
-}
+{"name": "qed-luxury-store","version": "1.0.0","private": true,"engines": { "node": "18.x" },"dependencies": {"react": "^18.2.0","react-dom": "^18.2.0","react-scripts": "5.0.1","framer-motion": "^10.16.1","tailwindcss": "^3.5.0","postcss": "^8.4.0","autoprefixer": "^10.4.0"},"scripts": {"start": "react-scripts start","build": "react-scripts build"}}
